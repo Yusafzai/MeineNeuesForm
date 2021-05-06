@@ -1,6 +1,6 @@
 import React from 'react';
 import './Style.css';
-import G from './GL.png';
+import G from './New.png';
 
 function Navbar() {
     return (
